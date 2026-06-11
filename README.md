@@ -1,2 +1,2 @@
 # Deliver AKS Workloads Securely with GitOps and Helm
-to trigger 6
+to trigger 7
